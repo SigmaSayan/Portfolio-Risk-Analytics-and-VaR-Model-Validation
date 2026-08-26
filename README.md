@@ -111,8 +111,6 @@ This framework can be used for:
 
 Potential extensions include:
 
-* Kupiec Proportion of Failures Test
-* Christoffersen Backtesting Framework
 * Stress Testing and Scenario Analysis
 * Dynamic Portfolio Rebalancing
 * Efficient Frontier Integration
